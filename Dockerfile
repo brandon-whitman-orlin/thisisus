@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk-slim
+FROM eclipse-temurin:21-jdk
 ENV PORT=8080
 WORKDIR /app
 COPY target/image-api-0.0.1-SNAPSHOT.jar app.jar
