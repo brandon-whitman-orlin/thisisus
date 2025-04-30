@@ -1,4 +1,5 @@
 com\example\imageapi\ImageApiApplication.class
 com\example\imageapi\HelloController.class
 com\example\imageapi\ImageController.class
+com\example\imageapi\GlobalExceptionHandler.class
 com\example\imageapi\ImageService.class
